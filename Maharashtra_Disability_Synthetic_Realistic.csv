@@ -1,0 +1,401 @@
+Disability_Type,Gender,Region,Socioeconomic_Status,Assistive_Tech_Use,Specialized_Training_Access,Parental_Involvement,Curriculum_Adaptation,Survival_to_Class10,Transition_to_Class12,Employment_Prospect
+Blindness,Girls,Rural,Low,No,Workshop,Medium,Significant,1,0,0
+Blindness,Girls,,Medium,Yes,None,High,Significant,0,0,1
+Blindness,Boys,Urban,Low,No,Workshop,Medium,,1,1,1
+Blindness,Boys,Urban,High,,Workshop,High,Significant,1,1,1
+Blindness,Boys,Urban,Low,Yes,None,Low,None,1,1,1
+Blindness,Boys,Rural,Medium,No,Formal Training,High,Some,1,1,1
+Blindness,Girls,Rural,Medium,No,None,High,None,1,1,1
+Blindness,Girls,Rural,Medium,No,None,Low,Some,1,0,0
+Blindness,Boys,Rural,Low,No,None,High,,1,1,1
+Blindness,Boys,,High,No,Workshop,Medium,,0,0,0
+Blindness,Boys,Urban,Low,Yes,Formal Training,High,Significant,1,1,1
+Blindness,Boys,Rural,High,Yes,Formal Training,High,Significant,0,0,1
+Blindness,Girls,Urban,Low,No,Formal Training,Medium,Some,0,0,0
+Blindness,Boys,Rural,Low,No,Workshop,High,None,0,0,0
+Blindness,Boys,Rural,High,No,Workshop,Medium,Some,1,0,1
+Blindness,Girls,Urban,Low,No,Workshop,Low,Some,1,1,0
+Blindness,Boys,Urban,High,No,Workshop,High,None,1,0,1
+Blindness,Boys,Urban,High,No,None,Medium,None,1,0,1
+Blindness,Girls,Rural,Medium,Yes,Workshop,Low,None,1,1,0
+Blindness,Girls,Urban,High,Yes,Formal Training,Medium,Some,0,0,0
+Low Vision,Boys,Rural,Low,No,None,High,Some,0,0,1
+Low Vision,Girls,Rural,Low,Yes,Workshop,Low,Some,1,1,0
+Low Vision,Boys,,Medium,No,Formal Training,High,Some,1,1,1
+Low Vision,Boys,Rural,High,No,Workshop,Low,Significant,1,0,1
+Low Vision,Girls,Urban,High,Yes,Formal Training,Medium,None,1,1,1
+Low Vision,Boys,Urban,Low,No,None,High,,0,0,1
+Low Vision,Girls,Urban,High,No,None,Medium,None,1,1,1
+Low Vision,Boys,Urban,Medium,Yes,Workshop,High,Significant,1,1,0
+Low Vision,Boys,Rural,High,,Workshop,Low,Significant,1,1,1
+Low Vision,Boys,Urban,High,Yes,Workshop,High,Some,0,0,0
+Low Vision,Girls,Rural,High,Yes,Workshop,Low,,1,0,1
+Low Vision,Girls,Urban,Low,No,None,High,Some,1,1,1
+Low Vision,Boys,Urban,Low,Yes,Workshop,Low,Significant,0,0,1
+Low Vision,Girls,Urban,Medium,No,Workshop,High,Some,1,0,1
+Low Vision,Girls,Urban,Medium,Yes,Workshop,Medium,Some,1,1,0
+Low Vision,Boys,Rural,Medium,,None,High,Some,1,1,0
+Low Vision,Boys,Rural,Medium,No,Workshop,Low,None,1,0,0
+Low Vision,Boys,Urban,High,Yes,Formal Training,Medium,Some,1,0,1
+Low Vision,Girls,,High,No,None,High,Some,1,0,1
+Low Vision,Boys,Urban,High,No,Workshop,Low,None,0,0,1
+Low Vision,Boys,Rural,Low,No,Workshop,Medium,Some,0,0,1
+Low Vision,Girls,Urban,Low,Yes,Workshop,Medium,None,0,0,0
+Low Vision,Girls,Rural,Low,Yes,Workshop,Low,Some,1,1,1
+Low Vision,Boys,Urban,Medium,Yes,None,Low,None,1,1,1
+Low Vision,Boys,Urban,Medium,Yes,Workshop,Medium,,1,0,1
+Low Vision,Girls,Urban,Medium,Yes,Formal Training,,None,1,0,0
+Low Vision,Girls,Rural,High,,Workshop,Medium,Some,1,1,1
+Low Vision,Boys,Urban,Medium,No,Workshop,Medium,Some,1,1,0
+Low Vision,Girls,Urban,High,No,Workshop,Low,Significant,0,0,0
+Low Vision,Boys,Urban,Medium,Yes,Workshop,High,Some,1,1,0
+Low Vision,Girls,Rural,Medium,No,Workshop,Low,Some,1,0,0
+Low Vision,Boys,Urban,Medium,Yes,Formal Training,Medium,None,1,0,1
+Low Vision,Girls,Rural,Medium,No,None,High,Significant,1,0,1
+Low Vision,Boys,Rural,Low,Yes,None,Medium,None,1,0,1
+Low Vision,Girls,Rural,Low,Yes,None,Low,Significant,0,0,1
+Low Vision,Girls,Rural,Medium,Yes,Formal Training,,None,1,0,1
+Low Vision,Boys,Rural,Medium,No,Formal Training,High,Significant,1,0,0
+Low Vision,Boys,Urban,High,No,Workshop,Low,Some,1,1,0
+Low Vision,Girls,Urban,Medium,Yes,Formal Training,High,None,1,0,1
+Low Vision,Boys,Urban,Low,Yes,None,Low,Some,1,0,1
+Low Vision,Girls,Urban,High,No,None,High,None,1,0,1
+Low Vision,Boys,Urban,Low,No,Workshop,High,,1,1,1
+Low Vision,Boys,Urban,High,No,None,,Significant,1,1,1
+Low Vision,Boys,Rural,Medium,No,Formal Training,,None,1,0,0
+Low Vision,Girls,Urban,Medium,Yes,Workshop,Medium,Significant,1,1,1
+Low Vision,Boys,,Medium,Yes,None,Medium,Significant,1,1,1
+Low Vision,Girls,Rural,High,Yes,None,Low,None,1,1,1
+Low Vision,Girls,Rural,Low,Yes,None,Medium,None,0,0,1
+Low Vision,Boys,Rural,Low,Yes,None,High,Significant,1,1,1
+Low Vision,Boys,Rural,High,Yes,Workshop,,Some,0,0,1
+Low Vision,Girls,Rural,Medium,No,Formal Training,Low,None,1,0,1
+Low Vision,Girls,Urban,Medium,No,None,Medium,None,0,0,0
+Low Vision,Boys,Urban,Low,No,None,Low,None,0,0,1
+Low Vision,Girls,Rural,Low,Yes,Workshop,Medium,Some,0,0,1
+Low Vision,Girls,Rural,Low,,Formal Training,High,Some,0,0,1
+Low Vision,Girls,Urban,Medium,No,None,High,None,0,0,1
+Low Vision,Girls,Urban,Low,Yes,None,Low,Significant,1,0,1
+Low Vision,Boys,Rural,Low,No,None,High,Significant,1,1,0
+Low Vision,Boys,Urban,High,No,Formal Training,Low,None,1,1,0
+Low Vision,Girls,Urban,Medium,Yes,Workshop,High,Significant,1,1,0
+Hearing impairment,Boys,Urban,High,No,Formal Training,High,Some,0,0,1
+Hearing impairment,Boys,Urban,Medium,No,Workshop,Medium,Significant,0,0,1
+Hearing impairment,Girls,Rural,Low,Yes,None,,Some,0,0,0
+Hearing impairment,Boys,Rural,High,Yes,Workshop,Medium,None,1,1,1
+Hearing impairment,Boys,Urban,Medium,Yes,Workshop,High,Some,1,1,1
+Hearing impairment,Girls,Urban,High,No,Workshop,Medium,None,1,0,0
+Hearing impairment,Boys,Rural,High,No,Workshop,High,Some,0,0,1
+Hearing impairment,Boys,Urban,Medium,Yes,None,Low,Significant,0,0,0
+Hearing impairment,Girls,Rural,Medium,Yes,Workshop,,,0,0,0
+Hearing impairment,Girls,Urban,High,No,None,,Significant,0,0,1
+Hearing impairment,Girls,Rural,Medium,Yes,Formal Training,Low,None,1,0,0
+Hearing impairment,Boys,Rural,Low,Yes,Workshop,Low,Some,1,1,0
+Hearing impairment,Girls,Rural,Medium,Yes,Formal Training,High,Some,1,0,1
+Hearing impairment,Girls,Urban,Low,No,None,Low,Some,1,0,1
+Hearing impairment,Girls,Urban,Low,Yes,Formal Training,Medium,Significant,0,0,1
+Hearing impairment,Boys,Urban,High,No,None,Medium,Significant,0,0,1
+Hearing impairment,Boys,Urban,Low,No,Formal Training,High,Some,0,0,0
+Hearing impairment,Boys,Urban,Low,No,Formal Training,,None,1,0,1
+Hearing impairment,Girls,Urban,High,No,Workshop,Medium,None,1,1,0
+Hearing impairment,Girls,Urban,High,Yes,Formal Training,Medium,Some,0,0,1
+Hearing impairment,Boys,Urban,Medium,Yes,Workshop,High,Significant,0,0,1
+Hearing impairment,Boys,Rural,Low,No,None,Low,Some,0,0,1
+Hearing impairment,Girls,Rural,Medium,No,None,Medium,Some,0,0,0
+Hearing impairment,Boys,Rural,Low,Yes,Formal Training,High,Significant,0,0,1
+Hearing impairment,Boys,Rural,High,Yes,Workshop,High,None,0,0,1
+Hearing impairment,Girls,Rural,Medium,,Workshop,High,,0,0,1
+Hearing impairment,Boys,Rural,Low,No,Formal Training,Low,Some,1,1,1
+Hearing impairment,Girls,Rural,Low,Yes,None,,Significant,0,0,1
+Hearing impairment,Girls,Urban,Medium,Yes,None,Medium,Significant,0,0,0
+Hearing impairment,Girls,Rural,Medium,No,Workshop,Medium,Some,0,0,1
+Hearing impairment,Boys,Urban,High,Yes,Formal Training,Medium,Significant,0,0,1
+Hearing impairment,Girls,Rural,Low,No,Workshop,Medium,,0,0,0
+Hearing impairment,Boys,,High,No,None,Medium,,0,0,1
+Hearing impairment,Boys,Urban,Low,No,Formal Training,Low,Significant,0,0,0
+Hearing impairment,Girls,Urban,High,Yes,None,Medium,None,0,0,1
+Hearing impairment,Boys,Urban,Medium,No,Formal Training,High,Significant,1,0,1
+Hearing impairment,Girls,Urban,Medium,No,Formal Training,High,None,0,0,0
+Hearing impairment,Girls,Rural,Low,,None,Medium,Some,1,1,0
+Hearing impairment,Boys,Urban,High,Yes,Workshop,Medium,Some,0,0,1
+Hearing impairment,Boys,,Low,Yes,None,High,None,0,0,1
+Speech and Language,Boys,Rural,High,No,Workshop,,None,0,0,1
+Speech and Language,Boys,Rural,Low,No,None,Low,Some,0,0,1
+Speech and Language,Girls,Urban,Medium,No,Workshop,High,Significant,1,1,1
+Speech and Language,Girls,,Low,No,None,,None,1,1,0
+Speech and Language,Girls,Rural,Low,Yes,None,Low,Some,1,0,0
+Speech and Language,Girls,Rural,Medium,No,Workshop,High,Significant,1,0,1
+Speech and Language,Boys,,Medium,No,Workshop,Medium,Significant,1,1,0
+Speech and Language,Girls,Urban,Low,No,None,Low,Significant,0,0,1
+Speech and Language,Girls,Rural,Medium,Yes,None,Low,Some,0,0,1
+Speech and Language,Boys,Urban,High,,Formal Training,High,Some,1,0,1
+Speech and Language,Girls,Rural,High,No,Formal Training,High,None,1,0,1
+Speech and Language,Girls,Rural,Medium,Yes,None,Medium,None,0,0,0
+Speech and Language,Girls,,High,Yes,Workshop,Low,None,1,1,0
+Speech and Language,Boys,Urban,Low,Yes,None,Low,None,0,0,1
+Speech and Language,Boys,Rural,Low,No,Formal Training,Medium,None,0,0,1
+Speech and Language,Boys,,High,Yes,None,Low,None,0,0,0
+Speech and Language,Girls,Rural,Medium,Yes,None,High,Some,1,0,1
+Speech and Language,Boys,Urban,Medium,No,Workshop,Medium,Some,1,0,0
+Speech and Language,Boys,Rural,Low,Yes,Workshop,Medium,,0,0,0
+Speech and Language,Girls,Rural,Medium,No,Formal Training,,Significant,0,0,0
+Speech and Language,Girls,Rural,High,No,Workshop,High,Some,0,0,1
+Speech and Language,Boys,Rural,High,Yes,None,High,None,1,0,0
+Speech and Language,Girls,Rural,High,No,Workshop,Medium,Significant,0,0,0
+Speech and Language,Girls,Rural,Low,Yes,Workshop,Medium,Significant,0,0,0
+Speech and Language,Boys,Urban,Medium,No,Workshop,Low,Significant,0,0,1
+Speech and Language,Girls,Urban,Medium,Yes,None,Medium,Significant,0,0,0
+Speech and Language,Girls,Urban,High,Yes,Formal Training,Medium,Significant,0,0,1
+Speech and Language,Boys,Urban,High,Yes,Workshop,Low,None,1,0,1
+Speech and Language,Boys,Rural,High,Yes,Formal Training,High,,0,0,1
+Speech and Language,Girls,Rural,Medium,No,Workshop,Medium,Significant,1,0,1
+Speech and Language,Girls,,Low,Yes,Formal Training,Medium,Significant,0,0,0
+Speech and Language,Girls,Rural,Low,,None,High,None,0,0,1
+Locomotor Disability,Girls,Rural,High,Yes,Workshop,Medium,Some,1,0,1
+Locomotor Disability,Girls,Urban,Low,No,Formal Training,Medium,Significant,0,0,1
+Locomotor Disability,Girls,Urban,High,Yes,Formal Training,Low,None,0,0,1
+Locomotor Disability,Girls,,Medium,No,Workshop,Medium,,1,0,0
+Locomotor Disability,Boys,Urban,High,Yes,None,High,None,1,0,1
+Locomotor Disability,Girls,Urban,Medium,No,Workshop,Medium,None,1,0,1
+Locomotor Disability,Boys,Urban,Low,Yes,Workshop,Medium,Some,0,0,1
+Locomotor Disability,Boys,Rural,Low,Yes,Workshop,High,None,1,1,1
+Locomotor Disability,Boys,Rural,Medium,No,Formal Training,Medium,Some,1,0,1
+Locomotor Disability,Girls,Urban,Medium,,None,Low,Significant,1,1,0
+Locomotor Disability,Girls,Rural,Low,Yes,Formal Training,Medium,Some,1,1,0
+Locomotor Disability,Boys,Urban,High,,Workshop,,None,1,1,1
+Locomotor Disability,Girls,Urban,Medium,,Formal Training,High,None,0,0,1
+Locomotor Disability,Girls,Urban,Medium,No,Formal Training,High,Significant,1,1,0
+Locomotor Disability,Girls,Urban,Low,No,Formal Training,High,,0,0,0
+Locomotor Disability,Boys,Rural,Medium,,Formal Training,Medium,Significant,1,0,0
+Locomotor Disability,Boys,Urban,High,Yes,None,Low,Some,0,0,1
+Locomotor Disability,Girls,Rural,Low,Yes,None,High,None,0,0,1
+Locomotor Disability,Boys,Rural,High,Yes,Workshop,High,Significant,1,1,0
+Locomotor Disability,Boys,Urban,High,No,Workshop,Medium,Some,0,0,1
+Locomotor Disability,Girls,Urban,Medium,Yes,Formal Training,Medium,Significant,1,0,0
+Locomotor Disability,Girls,Urban,Low,Yes,Workshop,Medium,Some,0,0,0
+Locomotor Disability,Boys,,Low,Yes,Workshop,High,Significant,0,0,0
+Locomotor Disability,Girls,Urban,Low,No,None,High,Some,1,0,1
+Locomotor Disability,Boys,Urban,High,No,Formal Training,Low,,1,1,1
+Locomotor Disability,Boys,Rural,Medium,No,Workshop,Low,,1,1,1
+Locomotor Disability,Girls,Rural,Low,No,None,Low,None,0,0,0
+Locomotor Disability,Girls,Urban,Low,Yes,None,High,Some,1,0,1
+Locomotor Disability,Girls,Urban,High,No,Workshop,Low,,1,1,1
+Locomotor Disability,Girls,Rural,Low,No,Formal Training,High,Significant,1,1,0
+Locomotor Disability,Girls,Urban,Medium,Yes,Workshop,High,Significant,1,0,1
+Locomotor Disability,Girls,Rural,Medium,Yes,Formal Training,Low,None,1,1,0
+Locomotor Disability,Girls,Rural,Low,Yes,None,Low,None,1,1,0
+Locomotor Disability,Boys,Urban,Low,,Formal Training,Low,,1,1,1
+Locomotor Disability,Girls,Rural,Low,No,None,High,Significant,1,1,1
+Locomotor Disability,Girls,Rural,Medium,No,Workshop,High,Significant,1,0,1
+Locomotor Disability,Boys,Urban,Medium,No,None,Medium,None,0,0,1
+Locomotor Disability,Boys,Rural,Low,,Formal Training,High,Significant,0,0,0
+Locomotor Disability,Girls,Rural,Medium,No,None,High,Some,1,1,1
+Locomotor Disability,Girls,Rural,Medium,Yes,Formal Training,,None,0,0,0
+Locomotor Disability,Girls,Urban,Medium,No,Workshop,Low,Some,0,0,1
+Locomotor Disability,Boys,,Medium,No,Formal Training,High,,0,0,0
+Locomotor Disability,Boys,Urban,Low,Yes,None,High,Some,0,0,0
+Locomotor Disability,Boys,,Low,No,None,Low,None,1,0,1
+Locomotor Disability,Girls,Urban,Medium,,Workshop,High,None,1,0,1
+Locomotor Disability,Girls,Urban,Low,Yes,None,,Some,1,1,0
+Locomotor Disability,Boys,Rural,Medium,Yes,None,Low,None,0,0,1
+Locomotor Disability,Boys,,Low,Yes,Formal Training,High,Significant,1,1,1
+Locomotor Disability,Boys,Urban,Low,No,Formal Training,Medium,Significant,1,0,0
+Locomotor Disability,Boys,Urban,High,No,None,Low,Significant,1,1,1
+Locomotor Disability,Girls,Rural,Low,Yes,None,Low,None,1,1,0
+Locomotor Disability,Boys,Rural,High,No,Workshop,Low,None,0,0,1
+Locomotor Disability,Boys,Rural,High,No,None,High,,1,0,1
+Locomotor Disability,Boys,Urban,Medium,No,Workshop,,None,1,0,0
+Locomotor Disability,Boys,Rural,Medium,Yes,Formal Training,High,None,1,1,0
+Locomotor Disability,Boys,Rural,Medium,Yes,Formal Training,Low,Significant,1,0,0
+Locomotor Disability,Girls,Urban,Low,Yes,Workshop,Medium,Significant,0,0,0
+Locomotor Disability,Boys,Urban,Medium,,Workshop,High,,1,1,1
+Locomotor Disability,Boys,Urban,High,No,Formal Training,Medium,Significant,1,1,1
+Locomotor Disability,Boys,Rural,Low,No,Formal Training,Medium,Some,0,0,0
+Locomotor Disability,Boys,Urban,Medium,No,Formal Training,High,None,1,1,0
+Locomotor Disability,Boys,Urban,High,No,None,Low,Some,0,0,0
+Locomotor Disability,Boys,Urban,High,Yes,Formal Training,Low,Some,0,0,1
+Locomotor Disability,Girls,Urban,Medium,Yes,Workshop,High,None,0,0,0
+Locomotor Disability,Boys,Urban,Low,No,Workshop,Medium,Some,0,0,1
+Locomotor Disability,Girls,Urban,High,No,Formal Training,Low,Significant,1,0,0
+Locomotor Disability,Boys,Rural,High,No,Workshop,High,None,0,0,1
+Locomotor Disability,Girls,,Low,No,Formal Training,Medium,None,0,0,0
+Locomotor Disability,Boys,Rural,Low,No,None,Low,Significant,1,1,0
+Locomotor Disability,Girls,Urban,Low,No,Workshop,High,Significant,1,0,0
+Locomotor Disability,Boys,Urban,High,No,Formal Training,Low,None,1,1,1
+Locomotor Disability,Girls,Rural,Low,,Workshop,Medium,None,1,1,1
+Locomotor Disability,Boys,Rural,Low,Yes,Workshop,Low,Some,1,1,1
+Locomotor Disability,Girls,Rural,High,Yes,Formal Training,Low,,0,0,1
+Locomotor Disability,Boys,Rural,Medium,Yes,Formal Training,Medium,Significant,1,1,0
+Locomotor Disability,Girls,Rural,High,Yes,Formal Training,Low,Some,0,0,1
+Locomotor Disability,Girls,Urban,Medium,Yes,None,,None,1,1,1
+Locomotor Disability,Boys,Urban,Medium,No,Workshop,Low,,0,0,1
+Locomotor Disability,Boys,Urban,High,Yes,Workshop,,None,1,0,1
+Locomotor Disability,Girls,Rural,Medium,No,None,Low,,1,0,0
+Mental illness,Boys,Urban,Medium,Yes,Workshop,Low,Significant,0,0,1
+Mental illness,Boys,Urban,High,No,Workshop,Low,Significant,0,0,1
+Mental illness,Girls,Urban,Low,No,Formal Training,Low,Significant,0,0,1
+Mental illness,Boys,Rural,High,Yes,Formal Training,Low,Significant,0,0,0
+Mental illness,Boys,Urban,Medium,Yes,Formal Training,Low,None,0,0,1
+Mental illness,Boys,Rural,Medium,No,Workshop,Low,Some,0,0,1
+Mental illness,Boys,Urban,High,Yes,None,Low,None,0,0,0
+Mental illness,Girls,Rural,High,Yes,Formal Training,Low,Some,1,0,1
+Mental illness,Boys,Rural,Low,Yes,Workshop,Low,Some,1,1,1
+Mental illness,Boys,Urban,Low,Yes,None,Medium,Some,1,1,1
+Mental illness,Girls,Rural,Low,Yes,Formal Training,Medium,Some,1,1,0
+Mental illness,Boys,Urban,Medium,No,Workshop,High,None,0,0,1
+Mental illness,Girls,Rural,High,Yes,Formal Training,High,None,0,0,1
+Mental illness,Boys,,Low,,None,Medium,Significant,0,0,0
+Mental illness,Girls,Rural,High,Yes,Formal Training,High,Significant,1,1,0
+Mental illness,Boys,Urban,High,,None,Low,,0,0,1
+Mental illness,Boys,Urban,High,Yes,Workshop,High,Significant,0,0,0
+Mental illness,Boys,Urban,High,No,None,High,Significant,1,0,1
+Mental illness,Girls,Rural,Medium,Yes,Workshop,High,Significant,0,0,1
+Mental illness,Girls,Rural,Medium,No,Workshop,Low,Some,0,0,0
+Mental illness,Boys,Rural,High,,Workshop,Low,,0,0,0
+Mental illness,Boys,Urban,High,No,Workshop,Low,Significant,0,0,1
+Mental illness,Girls,Urban,High,Yes,None,Low,None,0,0,1
+Mental illness,Boys,Urban,Low,No,None,Low,Significant,0,0,0
+Mental illness,Boys,Rural,High,No,Formal Training,High,None,0,0,1
+Mental illness,Girls,Rural,Medium,No,Workshop,High,Some,1,0,0
+Mental illness,Boys,Urban,High,,None,Low,Some,0,0,0
+Mental illness,Boys,Urban,High,Yes,Workshop,Medium,None,0,0,1
+Specific Learning Disabilities,Boys,Rural,Medium,No,Workshop,Medium,Some,1,0,0
+Specific Learning Disabilities,Girls,Urban,High,Yes,Workshop,High,Significant,1,1,1
+Specific Learning Disabilities,Girls,Urban,Medium,No,Workshop,High,Significant,1,0,0
+Specific Learning Disabilities,Girls,,High,Yes,Formal Training,Low,None,0,0,1
+Specific Learning Disabilities,Boys,Rural,Low,Yes,None,High,None,1,1,1
+Specific Learning Disabilities,Boys,Urban,Low,No,Formal Training,Low,Significant,1,0,0
+Specific Learning Disabilities,Boys,Rural,Medium,No,Workshop,Medium,Some,0,0,1
+Specific Learning Disabilities,Girls,Rural,Medium,No,None,High,Some,1,1,1
+Specific Learning Disabilities,Girls,Urban,Low,Yes,Formal Training,Medium,Significant,1,0,0
+Specific Learning Disabilities,Boys,Rural,Medium,No,Workshop,,Significant,1,1,0
+Specific Learning Disabilities,Boys,,Low,Yes,None,High,None,0,0,0
+Specific Learning Disabilities,Girls,Urban,Medium,No,Workshop,,None,0,0,0
+Specific Learning Disabilities,Boys,Rural,Medium,No,None,Medium,None,1,0,1
+Specific Learning Disabilities,Girls,Urban,Low,No,Formal Training,Low,None,0,0,0
+Specific Learning Disabilities,Boys,Urban,Low,Yes,Workshop,Medium,Significant,1,1,0
+Specific Learning Disabilities,Boys,Urban,High,Yes,Workshop,High,None,1,0,1
+Specific Learning Disabilities,Boys,Rural,High,No,None,Low,Significant,1,0,1
+Specific Learning Disabilities,Boys,Rural,High,No,Formal Training,High,None,1,1,0
+Specific Learning Disabilities,Boys,Urban,Low,Yes,None,High,None,1,0,0
+Specific Learning Disabilities,Girls,Urban,Low,No,None,Low,Significant,0,0,0
+Specific Learning Disabilities,Boys,Rural,Low,No,None,Low,Some,0,0,1
+Specific Learning Disabilities,Girls,Urban,Low,Yes,Formal Training,Medium,Some,1,1,1
+Specific Learning Disabilities,Boys,Rural,Low,No,Formal Training,Low,None,1,0,0
+Specific Learning Disabilities,Girls,,Low,No,Formal Training,Medium,None,1,1,1
+Specific Learning Disabilities,Boys,Rural,High,No,Workshop,Low,None,1,1,0
+Specific Learning Disabilities,Boys,Urban,Low,,None,,Some,1,0,1
+Specific Learning Disabilities,Boys,Rural,Medium,No,None,Medium,Some,0,0,1
+Specific Learning Disabilities,Boys,Rural,Low,No,Formal Training,High,None,0,0,1
+Specific Learning Disabilities,Boys,,Medium,No,Workshop,,Significant,0,0,0
+Specific Learning Disabilities,Boys,Rural,Medium,,None,Medium,Some,1,0,0
+Specific Learning Disabilities,Girls,Urban,Medium,No,Formal Training,,Significant,1,0,0
+Specific Learning Disabilities,Boys,Rural,Low,,Workshop,Low,Significant,1,1,0
+Specific Learning Disabilities,Boys,Rural,Medium,No,Workshop,Medium,None,1,0,1
+Specific Learning Disabilities,Girls,Urban,High,Yes,Workshop,High,Some,1,1,1
+Specific Learning Disabilities,Boys,Rural,High,Yes,Workshop,Low,Some,1,0,1
+Specific Learning Disabilities,Boys,Rural,High,No,None,Low,None,0,0,1
+Specific Learning Disabilities,Boys,Rural,High,,None,Medium,Significant,1,1,1
+Specific Learning Disabilities,Boys,Rural,Low,Yes,Formal Training,High,None,1,1,1
+Specific Learning Disabilities,Girls,,Low,Yes,None,,Some,0,0,1
+Specific Learning Disabilities,Boys,Rural,High,Yes,None,Low,Some,1,1,0
+Cerebral palsy,Girls,Rural,Low,Yes,Formal Training,Medium,Some,1,0,0
+Cerebral palsy,Girls,Urban,High,Yes,Workshop,High,Significant,0,0,1
+Cerebral palsy,Girls,Rural,Medium,Yes,None,High,Some,0,0,1
+Cerebral palsy,Girls,Urban,Medium,Yes,Workshop,Low,Some,0,0,0
+Cerebral palsy,Boys,Urban,High,Yes,None,Low,Significant,0,0,1
+Cerebral palsy,Boys,Rural,High,Yes,None,Low,Significant,0,0,1
+Cerebral palsy,Girls,Rural,Medium,No,None,High,Significant,0,0,1
+Cerebral palsy,Boys,,Medium,No,None,,None,0,0,1
+Cerebral palsy,Girls,Rural,Low,Yes,Workshop,Low,Some,0,0,0
+Cerebral palsy,Girls,Urban,Medium,Yes,None,Medium,None,0,0,1
+Cerebral palsy,Girls,Urban,Medium,No,Workshop,Medium,Some,1,0,0
+Cerebral palsy,Girls,Rural,Medium,No,None,High,Some,1,1,1
+Cerebral palsy,Boys,Rural,Medium,Yes,None,,None,0,0,1
+Cerebral palsy,Boys,,High,Yes,Workshop,High,Significant,0,0,1
+Cerebral palsy,Girls,Rural,Medium,Yes,Formal Training,High,Some,0,0,1
+Cerebral palsy,Girls,,High,Yes,None,Medium,,0,0,0
+Cerebral palsy,Boys,Urban,Medium,No,Workshop,Medium,Some,0,0,0
+Cerebral palsy,Girls,Rural,High,Yes,Formal Training,Low,Some,0,0,1
+Cerebral palsy,Boys,,High,Yes,Workshop,Medium,Significant,1,1,1
+Cerebral palsy,Girls,Urban,Medium,No,Workshop,High,Some,0,0,1
+Autism Spectrum Disorder,Boys,,High,Yes,Formal Training,Medium,Some,1,0,1
+Autism Spectrum Disorder,Boys,Rural,Low,Yes,Workshop,Low,Some,0,0,0
+Autism Spectrum Disorder,Boys,Urban,Low,No,Workshop,Medium,Significant,0,0,0
+Autism Spectrum Disorder,Girls,Rural,High,No,None,High,None,0,0,0
+Autism Spectrum Disorder,Boys,Urban,Low,Yes,Workshop,Low,Some,0,0,0
+Autism Spectrum Disorder,Girls,Urban,High,No,Formal Training,Low,None,1,0,1
+Autism Spectrum Disorder,Boys,Urban,Low,Yes,None,Medium,,0,0,0
+Autism Spectrum Disorder,Boys,Urban,High,Yes,Workshop,,None,1,0,1
+Autism Spectrum Disorder,Girls,Urban,Low,No,None,,Some,0,0,1
+Autism Spectrum Disorder,Girls,Urban,Medium,Yes,Workshop,Medium,None,1,1,0
+Autism Spectrum Disorder,Girls,Rural,High,No,Formal Training,High,None,1,1,0
+Autism Spectrum Disorder,Boys,Urban,Medium,Yes,None,Medium,Some,1,0,1
+Autism Spectrum Disorder,Girls,Urban,Low,Yes,None,High,Significant,1,0,1
+Autism Spectrum Disorder,Boys,Urban,Medium,Yes,Formal Training,Low,Significant,0,0,0
+Autism Spectrum Disorder,Boys,Urban,High,No,None,Low,,1,0,1
+Autism Spectrum Disorder,Girls,Urban,Medium,No,Formal Training,Medium,None,1,1,1
+Autism Spectrum Disorder,Boys,Rural,Low,No,Formal Training,High,Some,1,0,1
+Autism Spectrum Disorder,Girls,Rural,Low,Yes,Workshop,High,Significant,1,1,0
+Autism Spectrum Disorder,Boys,Urban,High,Yes,Formal Training,High,None,1,1,1
+Autism Spectrum Disorder,Girls,Rural,Low,No,Workshop,High,Some,1,1,0
+Intellectual Disability,Boys,Urban,High,Yes,Formal Training,Low,None,0,0,0
+Intellectual Disability,Boys,Rural,Low,No,None,Low,None,0,0,1
+Intellectual Disability,Boys,Rural,Medium,No,None,Low,Some,1,0,0
+Intellectual Disability,Girls,Urban,High,No,None,Low,,0,0,0
+Intellectual Disability,Girls,Urban,Medium,Yes,Workshop,High,Significant,0,0,1
+Intellectual Disability,Girls,Urban,Low,Yes,None,High,Some,0,0,0
+Intellectual Disability,Girls,Rural,Medium,,None,High,Significant,0,0,1
+Intellectual Disability,Girls,Urban,Medium,No,Formal Training,High,Some,0,0,1
+Intellectual Disability,Girls,Urban,Medium,Yes,Workshop,Low,None,1,0,1
+Intellectual Disability,Girls,Urban,High,Yes,Workshop,Medium,Significant,1,0,1
+Intellectual Disability,Girls,Urban,Medium,Yes,None,High,Some,0,0,1
+Intellectual Disability,Girls,Urban,Low,No,Formal Training,Low,Significant,0,0,1
+Intellectual Disability,Boys,Urban,Medium,Yes,None,High,None,0,0,1
+Intellectual Disability,Boys,Rural,Low,Yes,Formal Training,Medium,Significant,0,0,0
+Intellectual Disability,Girls,Urban,High,No,None,High,Significant,0,0,0
+Intellectual Disability,Girls,Urban,Low,No,None,Low,Some,0,0,0
+Intellectual Disability,Boys,Urban,Low,Yes,None,Medium,Some,0,0,1
+Intellectual Disability,Girls,Rural,Low,Yes,None,High,None,1,1,1
+Intellectual Disability,Girls,Rural,High,Yes,Formal Training,Low,None,0,0,1
+Intellectual Disability,Boys,Rural,High,No,Workshop,Low,Significant,0,0,1
+Intellectual Disability,Boys,Rural,High,No,Workshop,Medium,None,1,1,1
+Intellectual Disability,Girls,Rural,Low,Yes,Formal Training,Low,Significant,0,0,0
+Intellectual Disability,Girls,Urban,Low,Yes,Formal Training,Low,None,1,1,1
+Intellectual Disability,Boys,Urban,Medium,No,None,Medium,Significant,0,0,1
+Intellectual Disability,Boys,Rural,High,Yes,Workshop,Low,Significant,0,0,1
+Intellectual Disability,Girls,Rural,High,No,Workshop,High,None,1,0,0
+Intellectual Disability,Boys,Rural,High,No,Formal Training,High,Some,0,0,1
+Intellectual Disability,Girls,Urban,High,Yes,Workshop,Low,None,0,0,0
+Intellectual Disability,Girls,Rural,Low,,None,High,None,0,0,1
+Intellectual Disability,Girls,,Low,Yes,Workshop,Low,Some,0,0,0
+Intellectual Disability,Girls,Urban,Low,No,Workshop,Low,,0,0,1
+Intellectual Disability,Girls,Urban,High,No,Workshop,,Significant,1,0,0
+Intellectual Disability,Girls,Urban,Low,No,Workshop,High,Significant,1,0,1
+Intellectual Disability,Boys,,High,,Workshop,Low,None,1,1,1
+Intellectual Disability,Girls,Rural,High,,None,Low,Some,0,0,1
+Intellectual Disability,Girls,Urban,Medium,Yes,Workshop,Medium,Some,0,0,1
+Intellectual Disability,Boys,Rural,Medium,Yes,None,Medium,Some,0,0,1
+Intellectual Disability,Girls,Urban,Low,Yes,None,,Significant,1,0,1
+Intellectual Disability,Boys,Rural,Medium,Yes,Formal Training,Medium,Some,0,0,0
+Intellectual Disability,Girls,Rural,Medium,Yes,Formal Training,High,Significant,0,0,1
+Intellectual Disability,Boys,Urban,Medium,No,Formal Training,Low,Some,0,0,0
+Intellectual Disability,Girls,Rural,High,No,Formal Training,High,Some,0,0,1
+Intellectual Disability,Girls,Urban,Medium,No,Formal Training,Medium,Significant,0,0,1
+Intellectual Disability,Boys,Rural,Low,Yes,Workshop,,Significant,1,1,0
+Intellectual Disability,Girls,Urban,Medium,,None,High,Some,1,1,1
+Intellectual Disability,Boys,Rural,Low,Yes,Formal Training,Medium,Significant,0,0,0
+Intellectual Disability,Girls,Urban,High,No,Workshop,Medium,Some,0,0,1
+Intellectual Disability,Boys,Urban,Low,Yes,None,High,None,1,0,0
+Intellectual Disability,Boys,Rural,High,Yes,Workshop,Low,None,0,0,1
+Intellectual Disability,Girls,Rural,Medium,No,Workshop,Low,Some,0,0,0
+Intellectual Disability,Girls,Urban,Medium,No,Formal Training,High,None,0,0,0
+Intellectual Disability,Boys,Urban,High,Yes,None,High,None,0,0,1
+Intellectual Disability,Boys,Rural,High,No,None,High,None,0,0,1
+Intellectual Disability,Boys,Rural,Medium,No,None,High,None,0,0,0
+Intellectual Disability,Boys,Urban,High,No,Formal Training,High,None,0,0,1
+Intellectual Disability,Boys,Rural,Low,Yes,Workshop,High,None,0,0,1
+Intellectual Disability,Girls,,Medium,No,None,High,Some,1,1,0
+Intellectual Disability,Girls,Rural,High,,Workshop,Medium,Significant,1,0,0
+Intellectual Disability,Boys,Rural,High,Yes,None,Medium,Significant,1,1,1
+Intellectual Disability,Girls,Rural,Low,Yes,Formal Training,Medium,Significant,0,0,1
